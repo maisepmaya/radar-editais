@@ -75,6 +75,12 @@ flowchart LR
 - [ ] Final docs and screenshots
 
 **Out of scope for the MVP:** user accounts, payments, mobile app.
+ 
+### 💭 Future ideas
+ 
+- 🏷️ **IT role taxonomy:** normalize generic titles ("Analista Legislativo", "Vários cargos") into categories such as Dev, Infra, Data, Security and Support
+- 📍 **Filter by distance:** e.g. editais within 100 km of Recife, using IBGE municipality coordinates
+- 🌐 **More sources:** a multi-source scraper (exam boards and other aggregators)
 
 ## 🚀 Getting started
 
